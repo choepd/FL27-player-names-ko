@@ -8,7 +8,7 @@ SP Football Life 2027용 선수 표시명 한글화 배포물입니다.
 
 ![선수 정보 화면 — 킬리안 음바페](images/ingame_player_card.jpg)
 
-![경기 중 이름표 — 디에고 마라도나 / 폴 스콜스](images/ingame_match.jpg)
+![경기 중 이름표 — 데니스 베르흐캄프 / 디에고 마라도나](images/ingame_match.jpg)
 
 ## 릴리즈
 
